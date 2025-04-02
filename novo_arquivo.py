@@ -1,1 +1,1 @@
-print("Bom dia, boa tarde e boa noite, tudo bem?")
+print ("thchau")
